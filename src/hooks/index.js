@@ -1,0 +1,1 @@
+export {useCardsSearchTechnique} from "./cards/Cards.search.hook";
